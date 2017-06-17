@@ -1,3 +1,14 @@
 img {
     max-width: 100%;
+    max-height: 100%;
+}
+.aligned {
+    in-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100%; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}
+body {
+    font-family: helvetica;
 }
