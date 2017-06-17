@@ -12,3 +12,12 @@ img {
 body {
     font-family: helvetica;
 }
+h1 {
+    padding-top: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: #ff9a35;
+}
+navbar {
+    color: #fc8917;
+}
