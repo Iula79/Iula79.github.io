@@ -36,12 +36,6 @@ li {
     border: 3px solid #fc8917;
     padding:10px;
 }
-h1:before{
-    content: "";
-    position: absolute;
-    width: 50%;
-    height: 1px;
-    bottom: 0;
-    left: 25%;
-    border-bottom: 1px solid red;
+h3 {
+    letter-spacing: 1.02px;
 }
