@@ -32,3 +32,7 @@ li {
 .row {
     padding-top: 10px;
 }
+.bordered {
+    border: 3px solid #fc8917;
+    padding:10px;
+}
