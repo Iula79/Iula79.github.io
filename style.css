@@ -18,6 +18,10 @@ h1 {
     text-align: center;
     color: #ff9a35;
 }
-navbar {
+
+a {
     color: #fc8917;
+}
+li {
+    list-style: none;
 }
